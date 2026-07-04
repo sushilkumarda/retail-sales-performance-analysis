@@ -89,5 +89,4 @@ Dataset Size: 50,000 records | 22 columns | Jan 2023 - Dec 2024
 4. Open dashboard/retail_sales_performance_dashboard.pbix in Power BI Desktop
 
 ## Author
-Sushil Kumar | Aspiring Data Analyst
-Skills: Python, SQL, Power BI, Excel
+Sushil Kumar | Aspiring Data Analyst | Skills: Python, SQL, Power BI, Excel
